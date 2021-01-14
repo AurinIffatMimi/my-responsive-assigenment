@@ -1,0 +1,101 @@
+body{
+    background-color: #FFFFFF;
+}
+section{
+    
+    
+    padding-bottom: 150px;
+}
+.penguin{
+    color:olivedrab;
+    
+}
+.logo{
+    width:40%;
+}
+.pic{
+    width:60%;
+}
+
+.hero{
+    background-color: #FFFBF0;
+}
+#price{
+    color: gold;
+}
+.bt{
+    color:white;
+    border-radius: 5px;
+    border: none;
+    background-color: green;
+    
+    
+}
+.hero h1{
+    color: #FABE4C;
+    margin-left: 300px;
+    margin-top: 100px;
+    font-size: 80px;
+}
+.hero h3{
+    color: #363958;
+    margin-left: 300px;
+    font-size: 80px;
+}
+.hero h5{
+    color: black;
+    margin-left: 300px;
+}
+.custom-btn{
+    margin-left: 300px;
+    background-color: #99B336;
+    color: white;
+    border-color: #99B336;
+    padding:20px 40px 20px 40px;
+    border-radius: 10px;
+}
+.hero .custom-btn:hover{
+    background-color: #7a911b;
+    border: 0px ;
+}
+
+.product-img{
+    margin: 20px;
+    padding: 30px;
+    border-radius: 25px;
+    background-color: #F1F1F1;
+}
+.card-custom{
+    border-radius: 25px;
+    border: 0px ;
+}
+.custom-footer{
+   margin-bottom: 20px;
+}
+.custom-footer h1{
+    color: #FABE4C;
+}
+.custom-btn-2{
+    background-color: #99B336;
+    color: white;
+    border-color: #99B336;
+    padding:20px 40px 20px 40px;
+    border-radius: 10px;
+}
+.custom-btn-2:hover{
+    background-color: #7a911b;
+    border: 0px ;
+}
+.last-bg{
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
